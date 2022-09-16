@@ -39,10 +39,12 @@ Beatriz Fernández Gámez: Investigadora predoctoral, encargada del programa de 
 
 Marcos Olvera Rojas: Investigador predoctoral, encargado de las muestras biológicas (olvera@ugr.es)
 
-Andrea Coca Pulido: Investigadora predoctoral, encargada de las pruebas de MRI, análisis DXA y medidas antropométricas (e.acocapulido@go.ugr.es)
+Andrea Coca Pulido: Investigadora predoctoral, encargada de las pruebas de MRI y medidas antropométricas (e.acocapulido@go.ugr.es)
 
-Darío Bellón Fernández: Investigador predoctoral, encargado de las pruebas cognitivas y cuestionarios (dariobellon@correo.ugr.es)
+Darío Bellón Fernández: Investigador predoctoral, encargado de las pruebas cognitivas, análisis DXA y cuestionarios (dariobellon@correo.ugr.es)
 
-Alessandro Sclafani: Investigador predoctoral, encargado de la acelerometría y pruebas de fuerza (alessandro.sclafani0@gmail.com)
+Alessandro Sclafani: Investigador predoctoral, encargado de la acelerometría, pruebas de fuerza y condición física (alessandro.sclafani0@gmail.com)
 
 Carlos Prieto Lara: Investigador encargado del programa de ejercicio (carlosprieto92@gmail.com)
+
+Javier Fernández Ortega: Investigador encargado del programa de ejercicio del grupo control (jfdezortega@correo.ugr.es)
