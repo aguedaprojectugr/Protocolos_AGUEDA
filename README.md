@@ -35,7 +35,7 @@ José Ángel Toval Sánchez: Investigador postdoctoral (joseangel.toval@um.es)
 
 Isabel Martín Fuentes: Investigadora postdoctoral, encargada del análisis de variabilidad de la marcha (isamartinf@ugr.es)
 
-Beatriz Fernández Gámez: Investigadora predoctoral, encargada del programa de ejercicio (beatriz_fg20@hotmail.es)
+Beatriz Fernández Gámez: Investigadora predoctoral, encargada del programa de ejercicio y la prueba PET (beatriz_fg20@hotmail.es)
 
 Marcos Olvera Rojas: Investigador predoctoral, encargado de las muestras biológicas (olvera@ugr.es)
 
@@ -47,4 +47,4 @@ Alessandro Sclafani: Investigador predoctoral, encargado de la acelerometría, p
 
 Carlos Prieto Lara: Investigador encargado del programa de ejercicio (carlosprieto92@gmail.com)
 
-Javier Fernández Ortega: Investigador encargado del programa de ejercicio del grupo control (jfdezortega@correo.ugr.es)
+Javier Fernández Ortega: Investigador encargado del programa de ejercicio del grupo control
