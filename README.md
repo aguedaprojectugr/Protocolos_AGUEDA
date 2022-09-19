@@ -1,19 +1,20 @@
 # Protocolos_AGUEDA
 Protocolos del proyecto AGUEDA (Active Gains in brain Using Exercise During Aging)
+_____________________________________________________________________________________________________
 
-El estudio AGUEDA tiene como finalidad principal determinar el efecto de un programa de ejercicio físico de 6 meses de duración sobre la salud cerebral y cognitiva en adultos de avanzada edad.
+El proyecto AGUEDA tiene como finalidad principal determinar el efecto de un programa de ejercicio físico de 6 meses de duración sobre la salud cerebral y cognitiva en adultos de avanzada edad.
 Se trata de un ensayo controlado aleatorizado (RCT) que incluirá a 90 adultos mayores cognitivamente normales, de entre 65 a 80 años de edad. Los participantes serán asignados aleatoriamente a un programa de ejercicios de fuerza de 24 semanas (3 sesiones/semana, 60 min/sesión) o a un grupo de control en lista de espera al que se le pide que mantenga su estilo de vida habitual.
 
 El resultado primario estará indicado por el cambio en una puntuación compuesta de la función ejecutiva. Los resultados secundarios incluirán cambios en la estructura y función del cerebro y la deposición de amiloide, otros resultados cognitivos y cambios en los biomarcadores moleculares evaluados en muestras de sangre, saliva y heces, función física, fuerza muscular, composición corporal, salud mental y parámetros psicosociales.
 
-Con la publicación de los protocolos del estudio AGUEDA se pretende dar visibilidad a los procedimientos que se desarrollan en todas las fases del estudio, que estos puedan ser consultados por cualquier persona interesada e incluso se pueda contactar con la persona encargada para posibles consultas o asesoramientos.
+Con la publicación de los protocolos del proyecto AGUEDA se pretende dar visibilidad a los procedimientos que se desarrollan en todas las fases del proyecto, que estos puedan ser consultados por cualquier persona interesada e incluso se pueda contactar con la persona encargada para posibles consultas o asesoramientos. A continuación se muestra un listado con los investigadores del proyecto y los protocolos de los que se encargan.
 
 
 
 
 
-
-INVESTIGADORES DEL PROYECTO:
+_____________________________________________________________________________________________________
+INVESTIGADORES DEL PROYECTO AGUEDA:
 
 Irene Esteban Cornejo: Investigadora Principal del proyecto (ireneesteban@ugr.es)
 
