@@ -10,7 +10,7 @@ El resultado primario estará indicado por el cambio en una puntuación compuest
 Con la publicación de los protocolos del proyecto AGUEDA se pretende dar visibilidad a los procedimientos que se desarrollan en todas las fases del proyecto, que estos puedan ser consultados por cualquier persona interesada e incluso se pueda contactar con la persona encargada para posibles consultas o asesoramientos. A continuación se muestra un listado con los investigadores del proyecto y los protocolos de los que se encargan.
 
 _____________________________________________________________________________________________________
-INVESTIGADORES DEL PROYECTO AGUEDA:
+EQUIPO DE INVESTIGADORES DEL PROYECTO AGUEDA:
 
 Irene Esteban Cornejo: Investigadora Principal del proyecto (ireneesteban@ugr.es)
 
@@ -39,21 +39,21 @@ Javier Fernández Ortega: Investigador encargado del programa de ejercicio del g
 _____________________________________________________________________________________________________
 _____________________________________________________________________________________________________
 
-Protocols of the AGUEDA project (Active Gains in brain Using Exercise During Aging)
+Protocols of the AGUEDA trial (Active Gains in brain Using Exercise During Aging)
 _____________________________________________________________________________________________________
 
-The main purpose of the AGUEDA project is to determine the effect of a 6-month physical exercise program on brain and cognitive health in older adults. This is a randomized controlled trial (RCT) that will include 90 cognitively normal older adults, between 65 and 80 years of age. Participants will be randomly assigned to a 24-week resistance exercise program (3 sessions/week, 60 min/session) or to a waiting-list control group who are asked to maintain their usual lifestyle.
+The main purpose of the AGUEDA trial is to determine the effect of a 6-month physical exercise program on brain and cognitive health in older adults. This is a randomized controlled trial (RCT) that will include 90 cognitively normal older adults, between 65 and 80 years of age. Participants will be randomly assigned to a 24-week resistance exercise program (3 sessions/week, 60 min/session) or to a waiting-list control group who are asked to maintain their usual lifestyle.
 
-The primary outcome will be indicated by the change in a composite executive function score. Secondary outcomes will include changes in brain structure and function and amyloid deposition, other cognitive outcomes, and changes in molecular biomarkers assessed in blood, saliva, and stool samples, physical function, muscle strength, body composition, mental health and psychosocial parameters.
+The primary outcome will be indicated by the change in an executive function composite score. Secondary outcomes will include changes in brain structure and brain function, amyloid deposition, some other cognitive outcomes, changes in molecular biomarkers assessed in blood, saliva, and fecal samples, physical function, muscular strength, body composition, mental health and psychosocial parameters.
 
-With the publication of the protocols of the AGUEDA project, it is intended to give visibility to the procedures that are developed in all the phases of the project, so that they can be consulted by any interested person and even the person in charge can be contacted for possible consultations or advice. Below is a list of the project researchers and the protocols they are responsible for.
+With the publication of the AGUEDA trial protocols, the intention is to offer visibility to the procedures developed in all the phases of the trial. Thus, they will be open for consultation by any interested person, being available the person in charge contact for possible consultations or advices. Below a list of the researchers in charge of the different protocols is shown.
 
 _____________________________________________________________________________________________________
-RESEARCHERS OF THE AGUEDA PROJECT:
+RESEARCH TEAM OF THE AGUEDA TRIAL:
 
 Irene Esteban Cornejo: Principal Investigator of the project (ireneesteban@ugr.es)
 
-Patricio Solís Urra: Project Coordinator (patricio.solis.u@gmail.com)
+Patricio Solís Urra: Project coordinator (patricio.solis.u@gmail.com)
 
 José Rafael Mora González: Postdoctoral researcher (jmoragon@uncc.edu)
 
