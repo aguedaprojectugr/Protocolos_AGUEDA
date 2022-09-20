@@ -46,7 +46,7 @@ The main purpose of the AGUEDA trial is to determine the effect of a 6-month phy
 
 The primary outcome will be indicated by the change in an executive function composite score. Secondary outcomes will include changes in brain structure and brain function, amyloid deposition, some other cognitive outcomes, changes in molecular biomarkers assessed in blood, saliva, and fecal samples, physical function, muscular strength, body composition, mental health and psychosocial parameters.
 
-With the publication of the AGUEDA trial protocols, the intention is to offer visibility to the procedures developed in all the phases of the trial. Thus, they will be open for consultation by any interested person, being available the person in charge contact for possible consultations or advices. Below a list of the researchers in charge of the different protocols is shown.
+With the publication of the AGUEDA trial protocols, the intention is to offer visibility to the procedures developed in all the phases of the trial. Thus, they will be open for consultation by any interested person, the contacts of the person in charge of every protocol for possible questions or advices.
 
 _____________________________________________________________________________________________________
 RESEARCH TEAM OF THE AGUEDA TRIAL:
