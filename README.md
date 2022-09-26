@@ -34,7 +34,8 @@ Alessandro Sclafani: Investigador predoctoral, encargado de la acelerometría, p
 
 Carlos Prieto Lara: Investigador encargado del programa de ejercicio (carlosprieto92@gmail.com)
 
-Javier Fernández Ortega: Investigador encargado del programa de ejercicio del grupo control
+Javier Fernández Ortega: Investigador encargado del programa de ejercicio del grupo control (jfdezortega@correo.ugr.es)
+
 
 _____________________________________________________________________________________________________
 _____________________________________________________________________________________________________
@@ -73,6 +74,6 @@ Alessandro Sclafani: Predoctoral researcher, in charge of accelerometry, strengt
 
 Carlos Prieto Lara: Researcher in charge of the exercise program (carlosprieto92@gmail.com)
 
-Javier Fernández Ortega: Researcher in charge of the control group exercise program
+Javier Fernández Ortega: Researcher in charge of the control group exercise program (jfdezortega@correo.ugr.es)
 
 
