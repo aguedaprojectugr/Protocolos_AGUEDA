@@ -16,7 +16,7 @@ Irene Esteban Cornejo: Investigadora Principal del proyecto (ireneesteban@ugr.es
 
 Patricio Solís Urra: Coordinador del proyecto (patricio.solis.u@gmail.com) 
 
-José Rafael Mora González: Investigador postdoctoral (jmoragon@uncc.edu)
+José Rafael Mora González: Investigador postdoctoral (jmorag@ugr.es)
 
 José Ángel Toval Sánchez: Investigador postdoctoral (joseangel.toval@um.es) 
 
@@ -56,7 +56,7 @@ Irene Esteban Cornejo: Principal Investigator of the project (ireneesteban@ugr.e
 
 Patricio Solís Urra: Project coordinator (patricio.solis.u@gmail.com)
 
-José Rafael Mora González: Postdoctoral researcher (jmoragon@uncc.edu)
+José Rafael Mora González: Postdoctoral researcher (jmorag@ugr.es)
 
 José Ángel Toval Sánchez: Postdoctoral researcher (joseangel.toval@um.es)
 
