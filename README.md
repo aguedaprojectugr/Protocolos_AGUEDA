@@ -22,10 +22,6 @@ José Ángel Toval Sánchez: Investigador postdoctoral (joseangel.toval@um.es)
 
 Isabel Martín Fuentes: Investigadora postdoctoral, encargada del análisis de variabilidad de la marcha y análisis DXA (isamartinf@ugr.es)
 
-Manuel Gómez Río: Médico especialista en medicina nuclear, encargado de las pruebas PET (manuel.gomez.rio.sspa@juntadeandalucia.es) 
-
-Yolanda García Rivero: Enfermera a cargo de las pruebas PET (encarnacion.garcia.rivero.sspa@juntadeandalucia.es) 
-
 Beatriz Fernández Gámez: Investigadora predoctoral, coordinadora del programa de ejercicio y encargada de la sesión PET (beatriz_fg20@hotmail.es)
 
 Marcos Olvera Rojas: Investigador predoctoral, encargado de las muestras biológicas y corresponsable del programa de ejercicio (olvera@ugr.es)
@@ -65,10 +61,6 @@ José Rafael Mora González: Postdoctoral researcher (jmoragon@uncc.edu)
 José Ángel Toval Sánchez: Postdoctoral researcher (joseangel.toval@um.es)
 
 Isabel Martín Fuentes: Postdoctoral researcher, in charge of gait variability analysis and DXA analyses (isamartinf@ugr.es)
-
-Manuel Gómez Río: Physician specialist in nuclear medicine, in charge of PET tests (manuel.gomez.rio.sspa@juntadeandalucia.es) 
-
-Yolanda García Rivero: Nurse in charge of PET tests (encarnacion.garcia.rivero.sspa@juntadeandalucia.es) 
 
 Beatriz Fernández Gámez: Predoctoral researcher, exercise program coordinator, and in charge of PET session (beatriz_fg20@hotmail.es)
 
