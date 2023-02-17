@@ -20,19 +20,19 @@ José Rafael Mora González: Investigador postdoctoral (jmoragon@uncc.edu)
 
 José Ángel Toval Sánchez: Investigador postdoctoral (joseangel.toval@um.es) 
 
-Isabel Martín Fuentes: Investigadora postdoctoral, encargada del análisis de variabilidad de la marcha (isamartinf@ugr.es)
+Isabel Martín Fuentes: Investigadora postdoctoral, encargada del análisis de variabilidad de la marcha y análisis DXA (isamartinf@ugr.es)
 
 Manuel Gómez Río: Médico especialista en medicina nuclear, encargado de las pruebas PET (manuel.gomez.rio.sspa@juntadeandalucia.es) 
 
 Yolanda García Rivero: Enfermera a cargo de las pruebas PET (encarnacion.garcia.rivero.sspa@juntadeandalucia.es) 
 
-Beatriz Fernández Gámez: Investigadora predoctoral, encargada del programa de ejercicio y pruebas PET (beatriz_fg20@hotmail.es)
+Beatriz Fernández Gámez: Investigadora predoctoral, coordinadora del programa de ejercicio y encargada de la sesión PET (beatriz_fg20@hotmail.es)
 
-Marcos Olvera Rojas: Investigador predoctoral, encargado de las muestras biológicas (olvera@ugr.es)
+Marcos Olvera Rojas: Investigador predoctoral, encargado de las muestras biológicas y corresponsable del programa de ejercicio (olvera@ugr.es)
 
-Andrea Coca Pulido: Investigadora predoctoral, encargada de las pruebas de MRI y medidas antropométricas (e.acocapulido@go.ugr.es)
+Andrea Coca Pulido: Investigadora predoctoral, encargada de las pruebas de MRI, test cognitivos y medidas antropométricas (acocapulido@ugr.es)
 
-Darío Bellón Fernández: Investigador predoctoral, encargado de las pruebas cognitivas, análisis DXA y cuestionarios (dariobellon@correo.ugr.es)
+Darío Bellón Fernández: Investigador predoctoral, encargado de las pruebas MRI, pruebas cognitivas y cuestionarios (dariobellon@ugr.es)
 
 Alessandro Sclafani: Investigador predoctoral, encargado de la acelerometría, pruebas de fuerza y pruebas de condición física (alessandro.sclafani0@gmail.com)
 
@@ -64,19 +64,19 @@ José Rafael Mora González: Postdoctoral researcher (jmoragon@uncc.edu)
 
 José Ángel Toval Sánchez: Postdoctoral researcher (joseangel.toval@um.es)
 
-Isabel Martín Fuentes: Postdoctoral researcher, in charge of gait variability analysis (isamartinf@ugr.es)
+Isabel Martín Fuentes: Postdoctoral researcher, in charge of gait variability analysis and DXA analyses (isamartinf@ugr.es)
 
 Manuel Gómez Río: Physician specialist in nuclear medicine, in charge of PET tests (manuel.gomez.rio.sspa@juntadeandalucia.es) 
 
 Yolanda García Rivero: Nurse in charge of PET tests (encarnacion.garcia.rivero.sspa@juntadeandalucia.es) 
 
-Beatriz Fernández Gámez: Predoctoral researcher, in charge of the exercise program and PET tests (beatriz_fg20@hotmail.es)
+Beatriz Fernández Gámez: Predoctoral researcher, exercise program coordinator, and in charge of PET session (beatriz_fg20@hotmail.es)
 
-Marcos Olvera Rojas: Predoctoral researcher, in charge of biological samples (olvera@ugr.es)
+Marcos Olvera Rojas: Predoctoral researcher, in charge of biological samples and co-responsable person of the exercise program (olvera@ugr.es)
 
-Andrea Coca Pulido: Predoctoral researcher, in charge of MRI tests and anthropometric measurements (e.acocapulido@go.ugr.es)
+Andrea Coca Pulido: Predoctoral researcher, in charge of MRI, cognitive tests and anthropometric measurements (acocapulido@ugr.es)
 
-Darío Bellón Fernández: Predoctoral researcher, in charge of cognitive tests, DXA analysis and questionnaires (dariobellon@correo.ugr.es)
+Darío Bellón Fernández: Predoctoral researcher, in charge of MRI, cognitive tests, and questionnaires (dariobellon@ugr.es)
 
 Alessandro Sclafani: Predoctoral researcher, in charge of accelerometry, strength tests and physical condition tests (alessandro.sclafani0@gmail.com)
 
