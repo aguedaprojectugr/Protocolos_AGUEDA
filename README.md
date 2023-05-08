@@ -39,7 +39,7 @@ Javier Fernández Ortega: Investigador encargado del programa de ejercicio del g
 
 
 
-**Los protocolos completos estarán disponibles pronto**
+**Los protocolos completos estarán disponibles pronto.**
 
 
 _____________________________________________________________________________________________________
@@ -84,5 +84,5 @@ Javier Fernández Ortega: Researcher in charge of the control group exercise pro
 
 
 
-**Full protocols will be available soon**
+**Full protocols will be available soon.**
 
