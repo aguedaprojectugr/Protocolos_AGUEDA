@@ -22,7 +22,7 @@ José Ángel Toval Sánchez: Investigador postdoctoral (joseangel.toval@um.es)
 
 Isabel Martín Fuentes: Investigadora postdoctoral, encargada del análisis de variabilidad de la marcha y análisis DXA (isamartinf@ugr.es)
 
-Beatriz Fernández Gámez: Investigadora predoctoral, coordinadora del programa de ejercicio y encargada de la sesión PET (beatriz_fg20@hotmail.es)
+Beatriz Fernández Gámez: Investigadora predoctoral, coordinadora del programa de ejercicio y encargada de la sesión PET (beatrizfg@ugr.es)
 
 Marcos Olvera Rojas: Investigador predoctoral, encargado de las muestras biológicas y corresponsable del programa de ejercicio (olvera@ugr.es)
 
@@ -67,7 +67,7 @@ José Ángel Toval Sánchez: Postdoctoral researcher (joseangel.toval@um.es)
 
 Isabel Martín Fuentes: Postdoctoral researcher, in charge of gait variability analysis and DXA analyses (isamartinf@ugr.es)
 
-Beatriz Fernández Gámez: Predoctoral researcher, exercise program coordinator, and in charge of PET session (beatriz_fg20@hotmail.es)
+Beatriz Fernández Gámez: Predoctoral researcher, exercise program coordinator, and in charge of PET session (beatrizfg@ugr.es)
 
 Marcos Olvera Rojas: Predoctoral researcher, in charge of biological samples and co-responsable person of the exercise program (olvera@ugr.es)
 
