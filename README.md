@@ -39,9 +39,6 @@ Javier Fernández Ortega: Investigador encargado del programa de ejercicio del g
 
 
 
-**Los protocolos completos estarán disponibles pronto.**
-
-
 _____________________________________________________________________________________________________
 _____________________________________________________________________________________________________
 
@@ -82,7 +79,4 @@ Carlos Prieto Lara: Researcher in charge of the exercise program (carlosprieto92
 Javier Fernández Ortega: Researcher in charge of the control group exercise program (jfdezortega@correo.ugr.es)
 
 
-
-
-**Full protocols will be available soon.**
 
