@@ -42,8 +42,10 @@ Javier Fernández Ortega: Researcher in charge of the control group exercise pro
 
 _____________________________________________________________________________________________________
 _____________________________________________________________________________________________________
+_____________________________________________________________________________________________________
 
-Protocolos del proyecto AGUEDA (Active Gains in brain Using Exercise During Aging)
+# Protocolos de proyecto AGUEDA (Active Gains in brain Using Exercise During Aging)
+
 _____________________________________________________________________________________________________
 
 El proyecto AGUEDA tiene como finalidad principal determinar el efecto de un programa de ejercicio físico de 6 meses de duración sobre la salud cerebral y cognitiva en adultos de avanzada edad.
