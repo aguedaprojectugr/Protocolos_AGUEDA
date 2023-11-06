@@ -1,6 +1,8 @@
 
+_____________________________________________________________________________________________________
 
-Protocols of the AGUEDA trial (Active Gains in brain Using Exercise During Aging)
+# Protocols of the AGUEDA trial (Active Gains in brain Using Exercise During Aging)
+
 _____________________________________________________________________________________________________
 
 The main purpose of the AGUEDA trial is to determine the effect of a 6-month physical exercise program on brain and cognitive health in older adults. This is a randomized controlled trial (RCT) that will include 90 cognitively normal older adults, between 65 and 80 years of age. Participants will be randomly assigned to a 24-week resistance exercise program (3 sessions/week, 60 min/session) or to a waiting-list control group who are asked to maintain their usual lifestyle.
