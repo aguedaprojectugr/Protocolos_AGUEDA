@@ -1,4 +1,46 @@
-# Protocolos_AGUEDA
+
+
+Protocols of the AGUEDA trial (Active Gains in brain Using Exercise During Aging)
+_____________________________________________________________________________________________________
+
+The main purpose of the AGUEDA trial is to determine the effect of a 6-month physical exercise program on brain and cognitive health in older adults. This is a randomized controlled trial (RCT) that will include 90 cognitively normal older adults, between 65 and 80 years of age. Participants will be randomly assigned to a 24-week resistance exercise program (3 sessions/week, 60 min/session) or to a waiting-list control group who are asked to maintain their usual lifestyle.
+
+The primary outcome will be indicated by the change in an executive function composite score. Secondary outcomes will include changes in brain structure and brain function, amyloid deposition, some other cognitive outcomes, changes in molecular biomarkers assessed in blood, saliva, and fecal samples, physical function, muscular strength, body composition, mental health and psychosocial parameters.
+
+With the publication of the AGUEDA trial protocols, the intention is to offer visibility to the procedures developed in all the phases of the trial. Thus, they will be open for consultation by any interested person, we also provide the contacts of the person in charge of every protocol for possible questions or advices.
+
+_____________________________________________________________________________________________________
+RESEARCH TEAM OF THE AGUEDA TRIAL:
+
+Irene Esteban Cornejo: Principal Investigator of the project (ireneesteban@ugr.es)
+
+Patricio Solís Urra: Project coordinator (patricio.solis.u@gmail.com)
+
+José Rafael Mora González: Postdoctoral researcher (jmorag@ugr.es)
+
+José Ángel Toval Sánchez: Postdoctoral researcher (joseangel.toval@um.es)
+
+Isabel Martín Fuentes: Postdoctoral researcher, in charge of gait variability analysis and DXA analyses (isamartinf@ugr.es)
+
+Beatriz Fernández Gámez: Predoctoral researcher, exercise program coordinator, and in charge of PET session (beatrizfg@ugr.es)
+
+Marcos Olvera Rojas: Predoctoral researcher, in charge of biological samples and co-responsable person of the exercise program (olvera@ugr.es)
+
+Andrea Coca Pulido: Predoctoral researcher, in charge of MRI, cognitive tests and anthropometric measurements (acocapulido@ugr.es)
+
+Darío Bellón Fernández: Predoctoral researcher, in charge of MRI, cognitive tests, and questionnaires (dariobellon@ugr.es)
+
+Alessandro Sclafani: Predoctoral researcher, in charge of accelerometry, strength tests and physical condition tests (alessandro.sclafani0@gmail.com)
+
+Carlos Prieto Lara: Researcher in charge of the exercise program (carlosprieto92@gmail.com)
+
+Javier Fernández Ortega: Researcher in charge of the control group exercise program (jfdezortega@correo.ugr.es)
+
+
+
+_____________________________________________________________________________________________________
+_____________________________________________________________________________________________________
+
 Protocolos del proyecto AGUEDA (Active Gains in brain Using Exercise During Aging)
 _____________________________________________________________________________________________________
 
@@ -37,46 +79,6 @@ Carlos Prieto Lara: Investigador encargado del programa de ejercicio (carlosprie
 Javier Fernández Ortega: Investigador encargado del programa de ejercicio del grupo control (jfdezortega@correo.ugr.es)
 
 
-
-
-_____________________________________________________________________________________________________
-_____________________________________________________________________________________________________
-
-Protocols of the AGUEDA trial (Active Gains in brain Using Exercise During Aging)
-_____________________________________________________________________________________________________
-
-The main purpose of the AGUEDA trial is to determine the effect of a 6-month physical exercise program on brain and cognitive health in older adults. This is a randomized controlled trial (RCT) that will include 90 cognitively normal older adults, between 65 and 80 years of age. Participants will be randomly assigned to a 24-week resistance exercise program (3 sessions/week, 60 min/session) or to a waiting-list control group who are asked to maintain their usual lifestyle.
-
-The primary outcome will be indicated by the change in an executive function composite score. Secondary outcomes will include changes in brain structure and brain function, amyloid deposition, some other cognitive outcomes, changes in molecular biomarkers assessed in blood, saliva, and fecal samples, physical function, muscular strength, body composition, mental health and psychosocial parameters.
-
-With the publication of the AGUEDA trial protocols, the intention is to offer visibility to the procedures developed in all the phases of the trial. Thus, they will be open for consultation by any interested person, we also provide the contacts of the person in charge of every protocol for possible questions or advices.
-
-_____________________________________________________________________________________________________
-RESEARCH TEAM OF THE AGUEDA TRIAL:
-
-Irene Esteban Cornejo: Principal Investigator of the project (ireneesteban@ugr.es)
-
-Patricio Solís Urra: Project coordinator (patricio.solis.u@gmail.com)
-
-José Rafael Mora González: Postdoctoral researcher (jmorag@ugr.es)
-
-José Ángel Toval Sánchez: Postdoctoral researcher (joseangel.toval@um.es)
-
-Isabel Martín Fuentes: Postdoctoral researcher, in charge of gait variability analysis and DXA analyses (isamartinf@ugr.es)
-
-Beatriz Fernández Gámez: Predoctoral researcher, exercise program coordinator, and in charge of PET session (beatrizfg@ugr.es)
-
-Marcos Olvera Rojas: Predoctoral researcher, in charge of biological samples and co-responsable person of the exercise program (olvera@ugr.es)
-
-Andrea Coca Pulido: Predoctoral researcher, in charge of MRI, cognitive tests and anthropometric measurements (acocapulido@ugr.es)
-
-Darío Bellón Fernández: Predoctoral researcher, in charge of MRI, cognitive tests, and questionnaires (dariobellon@ugr.es)
-
-Alessandro Sclafani: Predoctoral researcher, in charge of accelerometry, strength tests and physical condition tests (alessandro.sclafani0@gmail.com)
-
-Carlos Prieto Lara: Researcher in charge of the exercise program (carlosprieto92@gmail.com)
-
-Javier Fernández Ortega: Researcher in charge of the control group exercise program (jfdezortega@correo.ugr.es)
 
 
 
