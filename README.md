@@ -12,7 +12,7 @@ The primary outcome will be indicated by the change in an executive function com
 With the publication of the AGUEDA trial protocols, the intention is to offer visibility to the procedures developed in all the phases of the trial. Thus, they will be open for consultation by any interested person, we also provide the contacts of the person in charge of every protocol for possible questions or advices.
 
 
-***In addition the Spirit protocol paper is already published and you can find the document in this repository entitled: "Solís-Urra 2023 - Active Gains in brain Using Exercise During Aging (AGUEDA). Protocol for a randomized controlled trial"***
+***In addition, the Spirit protocol paper is already published and you can find the document in this repository entitled: "Solís-Urra 2023 - Active Gains in brain Using Exercise During Aging (AGUEDA). Protocol for a randomized controlled trial"***
 _____________________________________________________________________________________________________
 RESEARCH TEAM OF THE AGUEDA TRIAL:
 
